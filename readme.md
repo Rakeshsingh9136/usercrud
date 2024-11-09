@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 
  
-git clone https://github.com/your-username/mern-stack-project.git
+git clone https://github.com/Rakeshsingh9136/usercrud.git
 cd usercrud
 Navigate to the Backend/ directory:
 
